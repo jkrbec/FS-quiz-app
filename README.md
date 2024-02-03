@@ -1,6 +1,6 @@
 # Basic Quiz App
 
-![Quiz Image] (quiz.png)
+![Quiz Image](quiz.png)
 
 ## Introduction
 This Basic Quiz App is a simple, interactive way to create and take quizzes on various topics. Designed for educational purposes, it offers a user-friendly interface and a straightforward way to test knowledge on a range of subjects.
